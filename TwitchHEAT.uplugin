@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TwitchHEAT",
+	"Description": "Enables live user interaction with remote user mouse clicks from Twitch.tv via the HEAT extension.",
+	"Category": "Other",
+	"CreatedBy": "Ben Jolley",
+	"CreatedByURL": "https://github.com/TheJollyBeardo/TwitchHEAT",
+	"DocsURL": "https://github.com/TheJollyBeardo/TwitchHEAT",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/TheJollyBeardo/TwitchHEAT",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TwitchHEAT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
